@@ -1,4 +1,7 @@
-# 🍃 Gatsby Leaflet Starter
+# corona-map-dahboard
+Corona Virus Map Dashbaord made [NovelCOVID API](https://github.com/NovelCOVID/API) and the Gatsby Leaflet Satrter
+
+## 🍃 Gatsby Leaflet Starter
 
 Jumpstart your next Gatsby mapping project with Leaflet!
 
