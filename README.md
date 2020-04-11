@@ -1,5 +1,5 @@
 # corona-map-dahboard
-Corona Virus Map Dashbaord made [NovelCOVID API](https://github.com/NovelCOVID/API) and the Gatsby Leaflet Satrter
+Corona Virus Map Dashbaord made using the [NovelCOVID API](https://github.com/NovelCOVID/API) and the Gatsby Leaflet Satrter
 
 ## 🍃 Gatsby Leaflet Starter
 
